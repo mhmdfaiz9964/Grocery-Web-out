@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[403],{403:function(e,u,s){s.r(u);var a=s(5893),n=s(7294),t=s(6670),c=s(1357),f=s(5007);u.default=()=>{let e=(0,f.v9)(e=>e.Language.selectedLanguage);return(0,n.useEffect)(()=>{},[e]),(0,a.jsx)(t.Z,{children:(0,a.jsx)(c.Z,{})})}}}]);
